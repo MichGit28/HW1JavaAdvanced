@@ -1,0 +1,291 @@
+// addTeam tId, tName, represents, fansCount, finalStage
+addTeam	 t001	team1	POLAND			25000		GROUP_A
+// failed already added
+addTeam	 t001	team1	POLAND			25000		GROUP_A
+addTeam	 t002	team2	GREECE			26500		GROUP_A
+addTeam	 t003	team3	RUSSIA			32100		GROUP_A
+addTeam	 t004	team4	CZECHREPUBLIC	54100		GROUP_A
+
+addTeam	 t005	team5	NETHERLANDS		35000		GROUP_B
+addTeam	 t006	team6	DENMARK			27450		GROUP_B
+addTeam	 t007	team7	GERMANY			50040		GROUP_B
+addTeam	 t008	team8	PORTUGAL		48700		GROUP_B
+	
+addTeam	 t009	team9	SPAIN			25400		GROUP_C
+addTeam	 t010	team10	ITALY			34200		GROUP_C
+addTeam	 t011	team11	IRELAND			47010		GROUP_C
+addTeam	 t012	team12	CROATIA			14520		GROUP_C
+
+addTeam	 t013	team13	UKRAINE			14588		GROUP_D
+addTeam	 t014	team14	SWEDEN			25000		GROUP_D
+addTeam	 t015	team15	FRANCE			64000		GROUP_D
+addTeam	 t016	team16	ENGLAND			63001		GROUP_D
+
+//= ===============================================================================
+// addMatch matchID, date, stadium
+addMatch	m001	8/6/2012	NationalStadium		55010
+// failed already added
+addMatch	m001	8/6/2012	NationalStadium		55010
+addMatch	m002	8/6/2012	MunicipalStadium	35000
+addMatch	m003	9/6/2012	MetalistStadium		36050	
+addMatch	m004	9/6/2012	ArenaLviv			30090
+addMatch	m005	10/6/2012	ArenaLviv			30122
+addMatch	m006	10/6/2012	PGE_Arena			34000
+addMatch	m007	11/6/2012	OlympicStadium		53040		
+addMatch	m008	11/6/2012	DonbassArena		41100		
+
+
+addMatch	m009	12/6/2012	NationalStadium		50070
+addMatch	m010	12/6/2012	MunicipalStadium	40000
+addMatch	m011	13/6/2012	MetalistStadium		35000
+addMatch	m012	13/6/2012	ArenaLviv			29808
+
+addMatch	m013	14/6/2012	PGE_Arena			38000
+addMatch	m014	14/6/2012	MunicipalRStadium	39550
+addMatch	m015	15/6/2012	OlympicStadium		60640
+addMatch	m016	15/6/2012	DonbassArena		46440
+
+
+addMatch	m017	16/6/2012	NationalStadium		51030
+addMatch	m018	16/6/2012	MunicipalStadium	39858
+addMatch	m019	17/6/2012	MetalistStadium		35651
+addMatch	m020	17/6/2012	ArenaLviv			31000
+
+addMatch	m021	18/6/2012	PGE_Arena			37650
+addMatch	m022	18/6/2012	MunicipalRStadium	37342
+addMatch	m023	19/6/2012	OlympicStadium		62214
+addMatch	m024	19/6/2012	DonbassArena		47320
+
+
+addMatch	m025	21/6/2012	NationalStadium		52322
+addMatch	m026	22/6/2012	PGE_Arena			37888
+addMatch	m027	23/6/2012	DonbassArena		43210
+addMatch	m028	24/6/2012	OlympicStadium		61421
+
+addMatch	m029	27/6/2012	DonbassArena		46200
+addMatch	m030	28/6/2012	NationalStadium		52000
+addMatch	m031	1/7/2012	OlympicStadium		63214
+//= ===============================================================================
+// addPlayer  pId,  pFullName		, age 	, nation 	,  pNum, Role[] ,  fansCount
+addPlayer 	pHR01	Stipe Pletikosa		33		CROATIA		01		GK UN	2500
+addPlayer 	pHR01	Stipe Pletikosa		33		CROATIA		01		GK UN	2500
+addPlayer 	pHR02	Danijel Pranjic		30		CROATIA		06		RB DT	2500
+addPlayer 	pHR03	Ivan Strinic		25		CROATIA		02		DT DE	3800	
+addPlayer 	pHR04	Josip Simunic		34		CROATIA		03		DT UN	2500
+addPlayer 	pHR05	Jurica Buljat		25		CROATIA		04		DT DE	3100
+addPlayer	pHR06	Ognjen Vukojevic	28		CROATIA		08		RB DT	4500
+addPlayer	pHR07	Luka Modric			26		CROATIA		10		RB CB	4300
+addPlayer 	pHR08	Milan Badelj		24		CROATIA		14		RB DT	5800
+addPlayer 	pHR09	Nikica Jelavic		26		CROATIA		09		WR DT	6960
+addPlayer 	pHR10	Mario Mandzukic		26		CROATIA		17		WR DE	6500
+addPlayer 	pHR11	Eduardo Eduardo 	29		CROATIA		22		WR UN	7100
+
+addPlayer 	pCZ01	Petr Cech			30		CZECHREPUBLIC	01		GK UN	2600
+addPlayer 	pCZ02	Jan Lastuvka		30		CZECHREPUBLIC	16		RB DT	3240
+addPlayer 	pCZ03	Michal Kadlec		27 		CZECHREPUBLIC	03		DT DE	5400
+addPlayer 	pCZ04	Marek Suchy			24		CZECHREPUBLIC	22		DT UN	1400
+addPlayer 	pCZ05	Roman Hubnik		28		CZECHREPUBLIC	05		DT DE	3500
+addPlayer 	pCZ06	Tomas Sivok			28		CZECHREPUBLIC	06		RB DT	6800
+addPlayer 	pCZ07	Vaclav Pilar		23		CZECHREPUBLIC	14		RB CB	2545
+addPlayer 	pCZ08	Tomas Hubschman		30		CZECHREPUBLIC	17		WR DT	2515
+addPlayer 	pCZ09	Tomas Necid			22		CZECHREPUBLIC	07		WR DE	2585
+addPlayer 	pCZ10	Milan Baros			30		CZECHREPUBLIC	15		WR UN	5500
+addPlayer 	pCZ11	Tomas Pekhart		23		CZECHREPUBLIC	20		WR UN	6520
+
+addPlayer 	pUK01	Maxym Koval			19		UKRAINE		01	GK UN	1598
+addPlayer	pUK02	Yevhen Selin		24		UKRAINE		02	RB DT	5478
+addPlayer	pUK03	Yevhen Khacheridi	24		UKRAINE		03	DT UN	5654
+addPlayer	pUK04	Yaroslav Rakitskiy	22		UKRAINE		20	UN DT	2545
+addPlayer	pUK05	Bohdan Butko		21		UKRAINE		21	DT UN	5463
+addPlayer	pUK06	Anatoliy Tymoshchuk	33		UKRAINE		04	RB DT	1500
+addPlayer	pUK07	Denys Garmash		22		UKRAINE		06	RB UN	2544
+addPlayer	pUK08	Andriy Yarmolenko	22		UKRAINE		11	WR DT	3225	
+addPlayer	pUK09	Andriy Voronin		33		UKRAINE		10	WR DE	4222
+addPlayer	pUK10	Andriy Shevchenko	35		UKRAINE		07	WR DT	6595
+addPlayer	pUK11	Marko Devi			28		UKRAINE		22	WR UN	5587
+
+addPlayer	pPO01	Wojciech Szczęsny	22		POLAND		01	GK UN	1589
+addPlayer	pPO02	Sebastian Boenisch	25		POLAND		02	RB UN	2566
+addPlayer	pPO03	Grzegorz Wojtkowiak	28		POLAND		03	DT LB	3100
+addPlayer	pPO04	Marcin Kaminski		20		POLAND		04	DT UN	2956
+addPlayer	pPO05	Damien Perquis		28		POLAND		15	RB DT	6600
+addPlayer	pPO06	Eugen Polanski		26		POLAND		07	RB UN	5500
+addPlayer	pPO07	Ludovic Obraniak	27		POLAND		10	WR DE	5455
+addPlayer	pPO08	Rafal Murawski		30		POLAND		11	WR UN	3600
+addPlayer	pPO09	Pawel Brożek		29		POLAND		23	WR LT	5688
+addPlayer	pPO10	Artur Sobiech		22		POLAND		17	RT WR	4236 
+addPlayer	pPO11	Robert Lewandowski	23		POLAND		09	WR RT	6250
+
+addPlayer	pFR01	Hugo Lloris			25		FRANCE		01	GK UN	3566
+addPlayer	pFR02	Mathieu Debuchy		26		FRANCE		02	RB LB	6800
+addPlayer	pFR03	Patrice Evra		31		FRANCE		03	DT LB	5500
+addPlayer	pFR04	Philippe Mexes		30		FRANCE		05	DT RB	4522
+addPlayer	pFR05	Laurent Koscielny	26		FRANCE		21	RB DT	3566	
+addPlayer	pFR06	Yohan Cabaye		26		FRANCE		06	WR RB	6500
+addPlayer	pFR07	Samir Nasri			25		FRANCE		11	WR DT	5800
+addPlayer	pFR08	Alou Diarra			31		FRANCE		18	LT WR	6900
+addPlayer	pFR09	Karim Benzema		24		FRANCE		10	WR RT	6890
+addPlayer	pFR10	Olivier Giroud		25		FRANCE		09	RT WR	6785
+addPlayer	pFR11	Adil Rami			26		FRANCE		04	WR RT	5852
+
+//= ===============================================================================
+// addPlayerToTeam String pId, int pNum,String tId
+addPlayerToTeam		pHR01		01		t012
+// failed already exist 
+addPlayerToTeam		pHR01		01		t012
+addPlayerToTeam		pHR02		06		t012
+addPlayerToTeam		pHR03		02		t012
+addPlayerToTeam		pHR04		03		t012
+addPlayerToTeam		pHR05		04		t012
+addPlayerToTeam		pHR06		08		t012
+addPlayerToTeam		pHR07		10		t012
+addPlayerToTeam		pHR08		14		t012
+addPlayerToTeam		pHR09		09		t012
+addPlayerToTeam		pHR10		17		t012
+addPlayerToTeam		pHR11		22		t012
+// failed ,player does not exist
+addPlayerToTeam		pPO11		08		t001
+
+addPlayerToTeam		pCZ01		01		t004	
+addPlayerToTeam		pCZ02		16		t004
+addPlayerToTeam		pCZ03		03		t004
+addPlayerToTeam		pCZ04		22		t004
+addPlayerToTeam		pCZ05		05		t004
+addPlayerToTeam		pCZ06		06		t004
+addPlayerToTeam		pCZ07		14		t004
+addPlayerToTeam		pCZ08		17		t004
+addPlayerToTeam		pCZ09		07		t004
+addPlayerToTeam		pCZ10		15		t004
+addPlayerToTeam		pCZ11		20		t004
+
+addPlayerToTeam		pPO01		01		t001		
+addPlayerToTeam		pPO02		02		t001
+addPlayerToTeam		pPO03		03		t001
+addPlayerToTeam		pPO04		04		t001
+addPlayerToTeam		pPO05		15		t001
+addPlayerToTeam		pPO06		07		t001
+addPlayerToTeam		pPO07		10		t001
+addPlayerToTeam		pPO08		11		t001
+addPlayerToTeam		pPO09		23		t001
+addPlayerToTeam		pPO10		17		t001
+addPlayerToTeam		pPO11		09		t001
+
+addPlayerToTeam		pUK01		01		t013
+addPlayerToTeam		pUK02		02		t013
+addPlayerToTeam		pUK03		03		t013
+addPlayerToTeam		pUK04		20		t013
+addPlayerToTeam		pUK05		21		t013
+addPlayerToTeam		pUK06		04		t013
+addPlayerToTeam		pUK07		06		t013
+addPlayerToTeam		pUK08		11		t013
+addPlayerToTeam		pUK09		10		t013
+addPlayerToTeam		pUK10		07		t013
+addPlayerToTeam		pUK11		22		t013
+// failed team does not exist
+addPlayerToTeam		pUK11		22		t016
+
+//= ===============================================================================
+// addSponsor String pId,String pFullName, String nation, short age, String surname
+addSponsor		sp01	 	Adolf Dassler	GERMANY			55			Adidas
+// failed already added
+addSponsor		sp01	 	Adolf Dassler	GERMANY			55			Adidas
+addSponsor		sp02		Goro Yoshida	JAPANESE		56			Canon
+addSponsor		sp03		 Asa Candler	US				100			Coca_Cola
+addSponsor		sp04		 un known		GERMANY			66			Continental
+addSponsor		sp05		Carl Group 		DENMARK			99			Carlsberg
+
+//= ===============================================================================
+// fundTeamBySponser(pId, surname , 	tId,	 amount, fDate)
+fundTeamBySponser 	sp01	Adidas		t001	12550		14/5/2012
+// failed already funded
+fundTeamBySponser 	sp01	Adidas		t001	12550		14/5/2012
+// failed ,sposor does not exist
+fundTeamBySponser 	sp00	Continental	t002	25000		16/1/2012
+fundTeamBySponser 	sp05	Carlsberg	t002	30000		26/1/2012
+fundTeamBySponser	sp01	Adidas		t007	26000		30/3/2012
+fundTeamBySponser	sp01	Adidas		t005	26000		30/3/2012
+// failed , over allowed funded teams
+fundTeamBySponser	sp01	Adidas		t006	26000		30/3/2012
+fundTeamBySponser	sp05	Carlsberg	t006	26000		30/3/2012
+
+//= ===============================================================================
+// addMatchResult 	tIdA, tIdB, 	mId, 	  date	,totalTime, tAgoals, tBgoals, penaltyEnd , tAYellowCards, tBYellowCards	, tARedcards, tBRedcards
+addMatchResult	  	t001	t002	m001	8/6/2012	90		1			1		false			0			4				1			1
+// failed, wrong date match
+addMatchResult		t003	t004	m002	9/6/2012	90		4			1		false			0			0				0			0
+addMatchResult		t003	t004	m002	8/6/2012	90		4			1		false			0			0				0			0
+addMatchResult		t005	t006	m003	9/6/2012	90		0			1		false			1			2				0			0
+addMatchResult		t007	t008	m004	9/6/2012	90		1			0		false			2			2				0			0
+addMatchResult		t009	t010	m005	10/6/2012	90		1			1		false			3			4				0			0
+addMatchResult		t011	t012	m006	10/6/2012	90		1			3		false			1			2				0			0
+addMatchResult		t013	t014	m007	11/6/2012	90		2			1		false			0			2				0			0
+addMatchResult		t015	t016	m008	11/6/2012	90		1			1		false			1			2				0			0
+
+
+addMatchResult		t001	t003	m009	12/6/2012	90		1			1		false			2			2				0			0
+addMatchResult		t002	t004	m010	12/6/2012	90		1			2		false			3			3				0			0
+
+addMatchResult		t005	t007	m011	13/6/2012	90		1			2		false			2			1				0			0
+addMatchResult		t006	t008	m012	13/6/2012	90		2			3		false			2			2				0			0
+
+addMatchResult		t009	t011	m013	14/6/2012	90		4			0		false			2			3				0			0
+addMatchResult		t010	t012	m014	14/6/2012	90		1			1		false			2			1				0			0
+
+addMatchResult		t014	t016	m015	15/6/2012	90		2			3		false			3			0				0			0
+addMatchResult		t013	t015	m016	15/6/2012	90		0			2		false			2			3				0			0
+
+
+addMatchResult		t002	t003	m017	16/6/2012	90		1			0		false			2			4				0			0
+addMatchResult		t004	t001	m018	16/6/2012	90		1			0		false			3			5				0			0
+
+addMatchResult		t008	t005	m019	17/6/2012	92		2			1		false			1			2				0			0
+addMatchResult		t006	t007	m020	17/6/2012	90		1			2		false			4			2				0			0
+
+addMatchResult		t012	t009	m021	18/6/2012	90		0			1		false			6			0				0			0
+addMatchResult		t010	t013	m022	18/6/2012	94		2			0		false			2			1				0			0
+
+addMatchResult		t014	t015	m023	19/6/2012	90		2			0		false			2			1				0			0
+addMatchResult		t016	t013	m024	19/6/2012	90		1			0		false			2			3				0			0
+
+addMatchResult		t004	t008	m025	21/6/2012	90		0			1		false			1			2				0			0
+addMatchResult		t007	t002	m026	22/6/2012	90		4			2		false			0			2				0			0
+
+addMatchResult		t009	t015	m027	23/6/2012	91		2			0		false			1			2				0			0
+
+addMatchResult		t007	t002	m028	24/6/2012	120		2			4		true			0			2				0			0
+
+addMatchResult		t008	t009	m029	27/6/2012	120		2			4		true			5			6				0			0
+
+addMatchResult		t007	t010	m030	28/6/2012	94		1			2		false			1			4				0			0
+
+addMatchResult		t009	t010	m031	1/7/2012	90		4			0		true			1			1				0			0
+
+//= ===============================================================================
+// eliteTeamsArrangedByGoalsGap(int gap)
+eliteTeamsArrangedByGoalsGap	2
+//
+eliteTeamsArrangedByGoalsGap	10
+
+//= ===============================================================================
+// getXDiffirentPlayerWithOneSkill(int X)
+getXDiffirentPlayerWithOneSkill 1
+//
+getXDiffirentPlayerWithOneSkill 3
+
+//= ===============================================================================
+// InterestFunding(int total)
+InterestFunding 1
+//
+InterestFunding 3
+
+//= ===============================================================================
+// getTeamsFundAndTotal
+getTeamsFundAndTotal
+
+//= ===============================================================================
+// extendedMatcheswithoutPenaltyKicks
+extendedMatcheswithoutPenaltyKicks
+
+//= ===============================================================================
+// getAllTeamsInvolvedInExtendedMatches
+getAllTeamsInvolvedInExtendedMatches

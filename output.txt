@@ -1,0 +1,620 @@
+
+
+addTeam returns:
+	Successfully added team t001,POLAND to jEuroTournament
+
+
+addTeam returns:
+	Failed to add new team t001 to jEuroTournament
+addTeam returns:
+	Successfully added team t002,GREECE to jEuroTournament
+addTeam returns:
+	Successfully added team t003,RUSSIA to jEuroTournament
+addTeam returns:
+	Successfully added team t004,CZECHREPUBLIC to jEuroTournament
+addTeam returns:
+	Successfully added team t005,NETHERLANDS to jEuroTournament
+addTeam returns:
+	Successfully added team t006,DENMARK to jEuroTournament
+addTeam returns:
+	Successfully added team t007,GERMANY to jEuroTournament
+addTeam returns:
+	Successfully added team t008,PORTUGAL to jEuroTournament
+addTeam returns:
+	Successfully added team t009,SPAIN to jEuroTournament
+addTeam returns:
+	Successfully added team t010,ITALY to jEuroTournament
+addTeam returns:
+	Successfully added team t011,IRELAND to jEuroTournament
+addTeam returns:
+	Successfully added team t012,CROATIA to jEuroTournament
+addTeam returns:
+	Successfully added team t013,UKRAINE to jEuroTournament
+addTeam returns:
+	Successfully added team t014,SWEDEN to jEuroTournament
+addTeam returns:
+	Successfully added team t015,FRANCE to jEuroTournament
+addTeam returns:
+	Successfully added team t016,ENGLAND to jEuroTournament
+=============================================================================================
+
+
+addMatch returns:
+	Successfully added match with identifier: m001 Fri Jun 08 00:00:00 IDT 2012 to jEuroTournament
+
+
+addMatch returns:
+	Failed to add new match m001 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m002 Fri Jun 08 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m003 Sat Jun 09 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m004 Sat Jun 09 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m005 Sun Jun 10 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m006 Sun Jun 10 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m007 Mon Jun 11 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m008 Mon Jun 11 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m009 Tue Jun 12 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m010 Tue Jun 12 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m011 Wed Jun 13 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m012 Wed Jun 13 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m013 Thu Jun 14 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m014 Thu Jun 14 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m015 Fri Jun 15 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m016 Fri Jun 15 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m017 Sat Jun 16 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m018 Sat Jun 16 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m019 Sun Jun 17 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m020 Sun Jun 17 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m021 Mon Jun 18 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m022 Mon Jun 18 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m023 Tue Jun 19 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m024 Tue Jun 19 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m025 Thu Jun 21 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m026 Fri Jun 22 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m027 Sat Jun 23 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m028 Sun Jun 24 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m029 Wed Jun 27 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m030 Thu Jun 28 00:00:00 IDT 2012 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: m031 Sun Jul 01 00:00:00 IDT 2012 to jEuroTournament
+=============================================================================================
+
+
+addPlayer returns:
+	Successfully added Player pHR01 , 1 to jEuroTournament
+addPlayer returns:
+	Failed adding Player pHR01 , 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR02 , 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR03 , 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR04 , 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR05 , 4 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR06 , 8 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR07 , 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR08 , 14 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR09 , 9 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR10 , 17 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR11 , 22 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ01 , 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ02 , 16 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ03 , 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ04 , 22 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ05 , 5 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ06 , 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ07 , 14 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ08 , 17 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ09 , 7 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ10 , 15 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ11 , 20 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK01 , 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK02 , 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK03 , 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK04 , 20 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK05 , 21 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK06 , 4 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK07 , 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK08 , 11 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK09 , 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK10 , 7 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK11 , 22 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO01 , 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO02 , 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO03 , 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO04 , 4 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO05 , 15 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO06 , 7 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO07 , 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO08 , 11 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO09 , 23 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO10 , 17 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO11 , 9 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR01 , 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR02 , 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR03 , 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR04 , 5 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR05 , 21 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR06 , 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR07 , 11 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR08 , 18 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR09 , 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR10 , 9 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR11 , 4 to jEuroTournament
+=============================================================================================
+
+
+addPlayerToTeam returns:
+	Successfully added Player pHR01 , 1 to Team t012
+
+
+addPlayerToTeam returns:
+	Failed adding Player pHR01 , 1 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR02 , 6 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR03 , 2 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR04 , 3 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR05 , 4 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR06 , 8 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR07 , 10 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR08 , 14 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR09 , 9 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR10 , 17 to Team t012
+addPlayerToTeam returns:
+	Successfully added Player pHR11 , 22 to Team t012
+
+
+addPlayerToTeam returns:
+	Failed adding Player pPO11 , 8 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pCZ01 , 1 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ02 , 16 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ03 , 3 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ04 , 22 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ05 , 5 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ06 , 6 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ07 , 14 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ08 , 17 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ09 , 7 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ10 , 15 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pCZ11 , 20 to Team t004
+addPlayerToTeam returns:
+	Successfully added Player pPO01 , 1 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO02 , 2 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO03 , 3 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO04 , 4 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO05 , 15 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO06 , 7 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO07 , 10 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO08 , 11 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO09 , 23 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO10 , 17 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pPO11 , 9 to Team t001
+addPlayerToTeam returns:
+	Successfully added Player pUK01 , 1 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK02 , 2 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK03 , 3 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK04 , 20 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK05 , 21 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK06 , 4 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK07 , 6 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK08 , 11 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK09 , 10 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK10 , 7 to Team t013
+addPlayerToTeam returns:
+	Successfully added Player pUK11 , 22 to Team t013
+
+
+addPlayerToTeam returns:
+	Failed adding Player pUK11 , 22 to Team t016
+=============================================================================================
+
+
+addSponsor returns:
+	Successfully added sponsor sp01 , Adidas to system
+
+
+addSponsor returns:
+	Failed adding Player sp01 , Adidas to system
+addSponsor returns:
+	Successfully added sponsor sp02 , Canon to system
+addSponsor returns:
+	Successfully added sponsor sp03 , Coca_Cola to system
+addSponsor returns:
+	Successfully added sponsor sp04 , Continental to system
+addSponsor returns:
+	Successfully added sponsor sp05 , Carlsberg to system
+=============================================================================================
+
+
+fundTeamBySponser returns:
+	Successfully funded team t001 by sponsor sp01 , Adidas
+
+
+fundTeamBySponser returns:
+	Failed funding team t001 by sponsor sp01 , Adidas
+
+
+fundTeamBySponser returns:
+	Failed funding team t002 by sponsor sp00 , Continental
+fundTeamBySponser returns:
+	Successfully funded team t002 by sponsor sp05 , Carlsberg
+fundTeamBySponser returns:
+	Successfully funded team t007 by sponsor sp01 , Adidas
+fundTeamBySponser returns:
+	Successfully funded team t005 by sponsor sp01 , Adidas
+
+
+fundTeamBySponser returns:
+	Failed funding team t006 by sponsor sp01 , Adidas
+fundTeamBySponser returns:
+	Successfully funded team t006 by sponsor sp05 , Carlsberg
+=============================================================================================
+
+
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t001 teamB: t002 in match m001 , result: A-1: B-1
+
+
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t003 teamB: t004 in match m002 , result: A-4: B-1
+addMatchResult returns:
+	Failed adding result of:
+	teamA: t003 teamB: t004 in match m002
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t005 teamB: t006 in match m003 , result: A-0: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t007 teamB: t008 in match m004 , result: A-1: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t009 teamB: t010 in match m005 , result: A-1: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t011 teamB: t012 in match m006 , result: A-1: B-3
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t013 teamB: t014 in match m007 , result: A-2: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t015 teamB: t016 in match m008 , result: A-1: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t001 teamB: t003 in match m009 , result: A-1: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t002 teamB: t004 in match m010 , result: A-1: B-2
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t005 teamB: t007 in match m011 , result: A-1: B-2
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t006 teamB: t008 in match m012 , result: A-2: B-3
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t009 teamB: t011 in match m013 , result: A-4: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t010 teamB: t012 in match m014 , result: A-1: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t014 teamB: t016 in match m015 , result: A-2: B-3
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t013 teamB: t015 in match m016 , result: A-0: B-2
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t002 teamB: t003 in match m017 , result: A-1: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t004 teamB: t001 in match m018 , result: A-1: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t008 teamB: t005 in match m019 , result: A-2: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t006 teamB: t007 in match m020 , result: A-1: B-2
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t012 teamB: t009 in match m021 , result: A-0: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t010 teamB: t013 in match m022 , result: A-2: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t014 teamB: t015 in match m023 , result: A-2: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t016 teamB: t013 in match m024 , result: A-1: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t004 teamB: t008 in match m025 , result: A-0: B-1
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t007 teamB: t002 in match m026 , result: A-4: B-2
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t009 teamB: t015 in match m027 , result: A-2: B-0
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t007 teamB: t002 in match m028 , result: A-2: B-4
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t008 teamB: t009 in match m029 , result: A-2: B-4
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t007 teamB: t010 in match m030 , result: A-1: B-2
+addMatchResult returns:
+	Successfully added result of:
+	teamA: t009 teamB: t010 in match m031 , result: A-4: B-0
+=============================================================================================
+
+
+eliteTeamsArrangedByGoalsGap 2, returns:
+the following elite Teams where found:
+	1-	Team [tId=t009, tName=team9, represents=SPAIN, goalsScored=16, goalsAgainst=3, yellowCards=13, redCards=0, fansCount=25400, finalStage=GROUP_C]
+	2-	Team [tId=t003, tName=team3, represents=RUSSIA, goalsScored=9, goalsAgainst=4, yellowCards=6, redCards=0, fansCount=32100, finalStage=GROUP_A]
+	3-	Team [tId=t007, tName=team7, represents=GERMANY, goalsScored=12, goalsAgainst=10, yellowCards=6, redCards=0, fansCount=50040, finalStage=GROUP_B]
+	4-	Team [tId=t016, tName=team16, represents=ENGLAND, goalsScored=5, goalsAgainst=3, yellowCards=4, redCards=0, fansCount=63001, finalStage=GROUP_D]
+
+
+eliteTeamsArrangedByGoalsGap 10, returns:
+the following elite Teams where found:
+	1-	Team [tId=t009, tName=team9, represents=SPAIN, goalsScored=16, goalsAgainst=3, yellowCards=13, redCards=0, fansCount=25400, finalStage=GROUP_C]
+=============================================================================================
+
+
+getXDifferentPlayerWithOneSkill, 1 player\s per team, returns:
+the following one skill players where found:
+	1-	Player[pNum= 1, skills= [GK, UN], fansCount= 1589] Person [pId=pPO01, pFullName=Wojciech Szczęsny, age=22, nation=POLAND]
+	2-	Player[pNum= 1, skills= [GK, UN], fansCount= 1598] Person [pId=pUK01, pFullName=Maxym Koval, age=19, nation=UKRAINE]
+	3-	Player[pNum= 1, skills= [GK, UN], fansCount= 2500] Person [pId=pHR01, pFullName=Stipe Pletikosa, age=33, nation=CROATIA]
+	4-	Player[pNum= 1, skills= [GK, UN], fansCount= 2600] Person [pId=pCZ01, pFullName=Petr Cech, age=30, nation=CZECHREPUBLIC]
+
+
+getXDifferentPlayerWithOneSkill, 3 player\s per team, returns:
+the following one skill players where found:
+	1-	Player[pNum= 1, skills= [GK, UN], fansCount= 1589] Person [pId=pPO01, pFullName=Wojciech Szczęsny, age=22, nation=POLAND]
+	2-	Player[pNum= 2, skills= [RB, UN], fansCount= 2566] Person [pId=pPO02, pFullName=Sebastian Boenisch, age=25, nation=POLAND]
+	3-	Player[pNum= 4, skills= [DT, UN], fansCount= 2956] Person [pId=pPO04, pFullName=Marcin Kaminski, age=20, nation=POLAND]
+	4-	Player[pNum= 1, skills= [GK, UN], fansCount= 1598] Person [pId=pUK01, pFullName=Maxym Koval, age=19, nation=UKRAINE]
+	5-	Player[pNum= 3, skills= [DT, UN], fansCount= 5654] Person [pId=pUK03, pFullName=Yevhen Khacheridi, age=24, nation=UKRAINE]
+	6-	Player[pNum= 20, skills= [UN, DT], fansCount= 2545] Person [pId=pUK04, pFullName=Yaroslav Rakitskiy, age=22, nation=UKRAINE]
+	7-	Player[pNum= 1, skills= [GK, UN], fansCount= 2500] Person [pId=pHR01, pFullName=Stipe Pletikosa, age=33, nation=CROATIA]
+	8-	Player[pNum= 3, skills= [DT, UN], fansCount= 2500] Person [pId=pHR04, pFullName=Josip Simunic, age=34, nation=CROATIA]
+	9-	Player[pNum= 22, skills= [WR, UN], fansCount= 7100] Person [pId=pHR11, pFullName=Eduardo Eduardo, age=29, nation=CROATIA]
+	10-	Player[pNum= 1, skills= [GK, UN], fansCount= 2600] Person [pId=pCZ01, pFullName=Petr Cech, age=30, nation=CZECHREPUBLIC]
+	11-	Player[pNum= 22, skills= [DT, UN], fansCount= 1400] Person [pId=pCZ04, pFullName=Marek Suchy, age=24, nation=CZECHREPUBLIC]
+	12-	Player[pNum= 15, skills= [WR, UN], fansCount= 5500] Person [pId=pCZ10, pFullName=Milan Baros, age=30, nation=CZECHREPUBLIC]
+=============================================================================================
+
+
+InterestFunding, out of: 1 returns:
+the following Interest Funds where found:
+	1-	Fund [amount= 26000.0, fDate=Fri Mar 30 00:00:00 IST 2012,
+sponsor = sponsor [surname=Carlsberg] Person [pId=sp05, pFullName=Carl Group, age=99, nation=DENMARK], 
+Team=Team [tId=t006, tName=team6, represents=DENMARK, goalsScored=4, goalsAgainst=5, yellowCards=8, redCards=0, fansCount=27450, finalStage=GROUP_B]]]
+
+
+InterestFunding, out of: 3 returns:
+the following Interest Funds where found:
+	1-	Fund [amount= 26000.0, fDate=Fri Mar 30 00:00:00 IST 2012,
+sponsor = sponsor [surname=Carlsberg] Person [pId=sp05, pFullName=Carl Group, age=99, nation=DENMARK], 
+Team=Team [tId=t006, tName=team6, represents=DENMARK, goalsScored=4, goalsAgainst=5, yellowCards=8, redCards=0, fansCount=27450, finalStage=GROUP_B]]]
+	2-	Fund [amount= 26000.0, fDate=Fri Mar 30 00:00:00 IST 2012,
+sponsor = sponsor [surname=Adidas] Person [pId=sp01, pFullName=Adolf Dassler, age=55, nation=GERMANY], 
+Team=Team [tId=t007, tName=team7, represents=GERMANY, goalsScored=12, goalsAgainst=10, yellowCards=6, redCards=0, fansCount=50040, finalStage=GROUP_B]]]
+=============================================================================================
+
+
+getTeamsFundAndTotal returns:
+
+	1-	 Team: Team [tId=t001, tName=team1, represents=POLAND, goalsScored=2, goalsAgainst=3, yellowCards=7, redCards=1, fansCount=25000, finalStage=GROUP_A]
+ Funded: true 
+ Total Amount of Fund: 12550.00
+
+	2-	 Team: Team [tId=t002, tName=team2, represents=GREECE, goalsScored=9, goalsAgainst=9, yellowCards=13, redCards=1, fansCount=26500, finalStage=GROUP_A]
+ Funded: true 
+ Total Amount of Fund: 30000.00
+
+	3-	 Team: Team [tId=t003, tName=team3, represents=RUSSIA, goalsScored=9, goalsAgainst=4, yellowCards=6, redCards=0, fansCount=32100, finalStage=GROUP_A]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	4-	 Team: Team [tId=t004, tName=team4, represents=CZECHREPUBLIC, goalsScored=5, goalsAgainst=10, yellowCards=7, redCards=0, fansCount=54100, finalStage=GROUP_A]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	5-	 Team: Team [tId=t005, tName=team5, represents=NETHERLANDS, goalsScored=2, goalsAgainst=5, yellowCards=5, redCards=0, fansCount=35000, finalStage=GROUP_B]
+ Funded: true 
+ Total Amount of Fund: 26000.00
+
+	6-	 Team: Team [tId=t006, tName=team6, represents=DENMARK, goalsScored=4, goalsAgainst=5, yellowCards=8, redCards=0, fansCount=27450, finalStage=GROUP_B]
+ Funded: true 
+ Total Amount of Fund: 26000.00
+
+	7-	 Team: Team [tId=t007, tName=team7, represents=GERMANY, goalsScored=12, goalsAgainst=10, yellowCards=6, redCards=0, fansCount=50040, finalStage=GROUP_B]
+ Funded: true 
+ Total Amount of Fund: 26000.00
+
+	8-	 Team: Team [tId=t008, tName=team8, represents=PORTUGAL, goalsScored=8, goalsAgainst=8, yellowCards=12, redCards=0, fansCount=48700, finalStage=GROUP_B]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	9-	 Team: Team [tId=t009, tName=team9, represents=SPAIN, goalsScored=16, goalsAgainst=3, yellowCards=13, redCards=0, fansCount=25400, finalStage=GROUP_C]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	10-	 Team: Team [tId=t010, tName=team10, represents=ITALY, goalsScored=6, goalsAgainst=7, yellowCards=13, redCards=0, fansCount=34200, finalStage=GROUP_C]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	11-	 Team: Team [tId=t011, tName=team11, represents=IRELAND, goalsScored=1, goalsAgainst=7, yellowCards=4, redCards=0, fansCount=47010, finalStage=GROUP_C]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	12-	 Team: Team [tId=t012, tName=team12, represents=CROATIA, goalsScored=4, goalsAgainst=3, yellowCards=9, redCards=0, fansCount=14520, finalStage=GROUP_C]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	13-	 Team: Team [tId=t013, tName=team13, represents=UKRAINE, goalsScored=2, goalsAgainst=6, yellowCards=6, redCards=0, fansCount=14588, finalStage=GROUP_D]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	14-	 Team: Team [tId=t014, tName=team14, represents=SWEDEN, goalsScored=5, goalsAgainst=5, yellowCards=7, redCards=0, fansCount=25000, finalStage=GROUP_D]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	15-	 Team: Team [tId=t015, tName=team15, represents=FRANCE, goalsScored=3, goalsAgainst=5, yellowCards=7, redCards=0, fansCount=64000, finalStage=GROUP_D]
+ Funded: false 
+ Total Amount of Fund: 0.00
+
+	16-	 Team: Team [tId=t016, tName=team16, represents=ENGLAND, goalsScored=5, goalsAgainst=3, yellowCards=4, redCards=0, fansCount=63001, finalStage=GROUP_D]
+ Funded: false 
+ Total Amount of Fund: 0.00
+=============================================================================================
+
+
+the following extended matches where found:
+	1-	Match [mId=m019, mDate=Sun Jun 17 00:00:00 IDT 2012], Results: 
+team8	team5
+    2      1
+	2-	Match [mId=m022, mDate=Mon Jun 18 00:00:00 IDT 2012], Results: 
+team10	team13
+    2      0
+	3-	Match [mId=m027, mDate=Sat Jun 23 00:00:00 IDT 2012], Results: 
+team9	team15
+    2      0
+	4-	Match [mId=m030, mDate=Thu Jun 28 00:00:00 IDT 2012], Results: 
+team7	team10
+    1      2
+=============================================================================================
+
+
+the following teams are involved in extended matches where found:
+	1-	Team [tId=t008, tName=team8, represents=PORTUGAL, goalsScored=8, goalsAgainst=8, yellowCards=12, redCards=0, fansCount=48700, finalStage=GROUP_B]
+	2-	Team [tId=t005, tName=team5, represents=NETHERLANDS, goalsScored=2, goalsAgainst=5, yellowCards=5, redCards=0, fansCount=35000, finalStage=GROUP_B]
+	3-	Team [tId=t010, tName=team10, represents=ITALY, goalsScored=6, goalsAgainst=7, yellowCards=13, redCards=0, fansCount=34200, finalStage=GROUP_C]
+	4-	Team [tId=t013, tName=team13, represents=UKRAINE, goalsScored=2, goalsAgainst=6, yellowCards=6, redCards=0, fansCount=14588, finalStage=GROUP_D]
+	5-	Team [tId=t009, tName=team9, represents=SPAIN, goalsScored=16, goalsAgainst=3, yellowCards=13, redCards=0, fansCount=25400, finalStage=GROUP_C]
+	6-	Team [tId=t015, tName=team15, represents=FRANCE, goalsScored=3, goalsAgainst=5, yellowCards=7, redCards=0, fansCount=64000, finalStage=GROUP_D]
+	7-	Team [tId=t007, tName=team7, represents=GERMANY, goalsScored=12, goalsAgainst=10, yellowCards=6, redCards=0, fansCount=50040, finalStage=GROUP_B]
